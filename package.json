@@ -1,7 +1,7 @@
 {
   "name": "task-tracker",
   "version": "1.0.0",
-  "description": "A web app to create read update delete task in the browser.",
+  "description": "A web app to create read update delete task in browser.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
